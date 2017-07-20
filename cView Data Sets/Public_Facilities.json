@@ -1,0 +1,567 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "jeef-dsq9",
+      "name" : "Public Facilities",
+      "attribution" : "Dvision of GIS",
+      "attributionLink" : "http://www.southbendin.gov/gis",
+      "averageRating" : 0,
+      "category" : "Health & Human Services",
+      "createdAt" : 1371240716,
+      "description" : "Libraries, Police Stations and Fire Stations in and surrounding the City of South Bend.",
+      "displayType" : "table",
+      "downloadCount" : 63,
+      "indexUpdatedAt" : 1414728397,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 4041759,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1373484702,
+      "publicationGroup" : 919281,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1373484642,
+      "rowsUpdatedBy" : "7avt-utx6",
+      "tableId" : 919281,
+      "totalTimesRated" : 0,
+      "viewCount" : 176,
+      "viewLastModified" : 1377107699,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 73926417,
+        "name" : "POPL_NAME",
+        "dataTypeName" : "text",
+        "fieldName" : "popl_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 11344112,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 51,
+          "smallest" : "Centre Twp. Fire",
+          "null" : 0,
+          "largest" : "Warren Twp. Sta. 2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "St. Joseph Co. Public Library Tutt Branch"
+          }, {
+            "count" : 19,
+            "item" : "St. Joseph Co. Public Library River Park Branch"
+          }, {
+            "count" : 18,
+            "item" : "St. Joseph Co. Public Library Main Branch"
+          }, {
+            "count" : 17,
+            "item" : "St. Joseph Co. Public Library LaSalle Branch"
+          }, {
+            "count" : 16,
+            "item" : "St. Joseph Co. Public Library Centre Township Branch"
+          }, {
+            "count" : 15,
+            "item" : "St. Joseph Co. Public Library Western Branch"
+          }, {
+            "count" : 14,
+            "item" : "St. Joseph Co. Public Library German Township Branch"
+          }, {
+            "count" : 13,
+            "item" : "St. Joseph Co. Public Library North Liberty Branch"
+          }, {
+            "count" : 12,
+            "item" : "St. Joseph Co. Public Library Lakeville Branch"
+          }, {
+            "count" : 11,
+            "item" : "Mishawaka Public Library Harris Branch"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 73926418,
+        "name" : "POPL_TYPE",
+        "dataTypeName" : "text",
+        "fieldName" : "popl_type",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 11344113,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 51,
+          "smallest" : "FIRE STATION",
+          "null" : 0,
+          "largest" : "POLICE STATION",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FIRE STATION"
+          }, {
+            "count" : 19,
+            "item" : "POLICE STATION"
+          }, {
+            "count" : 18,
+            "item" : "LIBRARY"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 73926419,
+        "name" : "POPL_ADDR1",
+        "dataTypeName" : "location",
+        "fieldName" : "popl_addr1",
+        "position" : 4,
+        "renderTypeName" : "location",
+        "tableColumnId" : 11344114,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 51,
+          "smallest" : {
+            "longitude" : "-86.32689998899968",
+            "latitude" : "41.66452382300048",
+            "human_address" : "{\"address\":\"101 W SAMPLE\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46619\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-86.25404046099965",
+            "latitude" : "41.67905056300049",
+            "human_address" : "{\"address\":\"701 W SAMPLE\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46625\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-86.23489053199967",
+              "latitude" : "41.65117097700045",
+              "human_address" : "{\"address\":\"2223 Miami St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46613\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-86.21666027299966",
+              "latitude" : "41.6657208470005",
+              "human_address" : "{\"address\":\"2022 Mishawaka Av.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-86.25187689899968",
+              "latitude" : "41.673543564000454",
+              "human_address" : "{\"address\":\"304 S. Main St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-86.29552017399965",
+              "latitude" : "41.689051108000456",
+              "human_address" : "{\"address\":\"3232 Ardmore Tr.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-86.23378088399966",
+              "latitude" : "41.6076504240005",
+              "human_address" : "{\"address\":\"1150 Kern Rd\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46614\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-86.30769577799964",
+              "latitude" : "41.70801127800047",
+              "human_address" : "{\"address\":\"611 Lombardy Dr\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-86.28282263899968",
+              "latitude" : "41.72393320100048",
+              "human_address" : "{\"address\":\"52807 Lynnewood Av\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-86.42789091599968",
+              "latitude" : "41.537320869000496",
+              "human_address" : "{\"address\":\"105 E Market St\",\"city\":\"North Liberty\",\"state\":\"Indiana\",\"zip\":\"46554\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-86.27405084799966",
+              "latitude" : "41.52547079800047",
+              "human_address" : "{\"address\":\"120 N Michigan St\",\"city\":\"Lakeville\",\"state\":\"Indiana\",\"zip\":\"46536\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-86.13972007399968",
+              "latitude" : "41.74701091100047",
+              "human_address" : "{\"address\":\"51446 Elm Rd\",\"city\":\"Granger\",\"state\":\"Indiana\",\"zip\":\"46530\"}"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 73926420,
+        "name" : "POPL_CITY",
+        "dataTypeName" : "text",
+        "fieldName" : "popl_city",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 11344115,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 51,
+          "smallest" : "Granger",
+          "null" : 0,
+          "largest" : "Wyatt",
+          "top" : [ {
+            "count" : 20,
+            "item" : "South Bend"
+          }, {
+            "count" : 19,
+            "item" : "Mishawaka"
+          }, {
+            "count" : 18,
+            "item" : "Granger"
+          }, {
+            "count" : 17,
+            "item" : "New Carlisle"
+          }, {
+            "count" : 16,
+            "item" : "North Liberty"
+          }, {
+            "count" : 15,
+            "item" : "Osceola"
+          }, {
+            "count" : 14,
+            "item" : "Lakeville"
+          }, {
+            "count" : 13,
+            "item" : "Wyatt"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 73926421,
+        "name" : "POPL_ZIP",
+        "dataTypeName" : "number",
+        "fieldName" : "popl_zip",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 11344116,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 51,
+          "smallest" : "46350",
+          "sum" : "2375731",
+          "null" : 0,
+          "average" : "46582.96078431373",
+          "largest" : "46645",
+          "top" : [ {
+            "count" : 20,
+            "item" : "46601"
+          }, {
+            "count" : 19,
+            "item" : "46617"
+          }, {
+            "count" : 18,
+            "item" : "46628"
+          }, {
+            "count" : 17,
+            "item" : "46614"
+          }, {
+            "count" : 16,
+            "item" : "46619"
+          }, {
+            "count" : 15,
+            "item" : "46616"
+          }, {
+            "count" : 14,
+            "item" : "46615"
+          }, {
+            "count" : 13,
+            "item" : "46544"
+          }, {
+            "count" : 12,
+            "item" : "46637"
+          }, {
+            "count" : 11,
+            "item" : "46350"
+          }, {
+            "count" : 10,
+            "item" : "46552"
+          }, {
+            "count" : 9,
+            "item" : "46554"
+          }, {
+            "count" : 8,
+            "item" : "46561"
+          }, {
+            "count" : 7,
+            "item" : "46545"
+          }, {
+            "count" : 6,
+            "item" : "46536"
+          }, {
+            "count" : 5,
+            "item" : "46595"
+          }, {
+            "count" : 4,
+            "item" : "46645"
+          }, {
+            "count" : 3,
+            "item" : "46625"
+          }, {
+            "count" : 2,
+            "item" : "46635"
+          }, {
+            "count" : 1,
+            "item" : "46613"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 73926422,
+        "name" : "POPL_STATE",
+        "dataTypeName" : "text",
+        "fieldName" : "popl_state",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 11344117,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 51,
+          "smallest" : "Indiana",
+          "null" : 0,
+          "largest" : "Indiana",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Indiana"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 73926423,
+        "name" : "POPL_PHONE",
+        "dataTypeName" : "text",
+        "fieldName" : "popl_phone",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 11344118,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 51,
+          "smallest" : "574-232-4028",
+          "null" : 0,
+          "largest" : "574-784-3446",
+          "top" : [ {
+            "count" : 20,
+            "item" : "574-282-4637"
+          }, {
+            "count" : 19,
+            "item" : "574-282-4635"
+          }, {
+            "count" : 18,
+            "item" : "574-282-4646"
+          }, {
+            "count" : 17,
+            "item" : "574-282-4633"
+          }, {
+            "count" : 16,
+            "item" : "574-251-3700"
+          }, {
+            "count" : 15,
+            "item" : "574-282-4639"
+          }, {
+            "count" : 14,
+            "item" : "574-271-5144"
+          }, {
+            "count" : 13,
+            "item" : "574-656-3644"
+          }, {
+            "count" : 12,
+            "item" : "574-784-3446"
+          }, {
+            "count" : 11,
+            "item" : "574-271-3179"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Update Frequency" : {
+            "Frequency" : "As Needed"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7avt-utx6",
+        "displayName" : "bcummins",
+        "roleName" : "administrator",
+        "screenName" : "bcummins",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7avt-utx6",
+        "displayName" : "bcummins",
+        "roleName" : "administrator",
+        "screenName" : "bcummins",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "library", "fire station", "police" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "FEAB1AA3-99F4-4DFB-B819-91BE3C344C25", 1, 1373484628, "713197", 1373484642, "713197", "{\n}", "South Bend Fire Dept.", "FIRE STATION", [ "{\"address\":\"1222 S. Michigan St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}", "41.66145320300046", "-86.24997207899969", null, false ], "South Bend", "46601", "Indiana", "574-235-9491" ]
+, [ 2, "34974B65-A3B9-4982-9E68-645241FB78A9", 2, 1373484628, "713197", 1373484642, "713197", "{\n}", "South Bend Fire Dept. Station #2", "FIRE STATION", [ "{\"address\":\"402 Martin Luther King Jr Dr\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}", "41.68009785300046", "-86.25981731099967", null, false ], "South Bend", "46601", "Indiana", "574-235-9602" ]
+, [ 3, "DA5A5847-1186-47D5-B2DE-919023767A87", 3, 1373484628, "713197", 1373484642, "713197", "{\n}", "South Bend Fire Dept. Station #3", "FIRE STATION", [ "{\"address\":\"1805 McKinley Ave.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}", "41.680220706000455", "-86.22075713699968", null, false ], "South Bend", "46617", "Indiana", "574-235-9175" ]
+, [ 4, "1BB88399-CAAB-4A4A-8693-8B24D7C683A1", 4, 1373484628, "713197", 1373484642, "713197", "{\n}", "South Bend Fire Dept. Station #4", "FIRE STATION", [ "{\"address\":\"220 N. Olive St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.678453281000486", "-86.28343457299968", null, false ], "South Bend", "46628", "Indiana", "574-235-9422" ]
+, [ 5, "4E2F514B-0A1D-4393-9FF3-8D4DC8DBD53F", 5, 1373484628, "713197", 1373484642, "713197", "{\n}", "South Bend Fire Dept. Station #5", "FIRE STATION", [ "{\"address\":\"2221 Prairie Ave.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46614\"}", "41.64993112100046", "-86.28155105499968", null, false ], "South Bend", "46614", "Indiana", "574-235-9509" ]
+, [ 6, "39151BA8-5AF6-41E9-89F1-DE79FFEF4FDF", 6, 1373484628, "713197", 1373484642, "713197", "{\n}", "South Bend Fire Dept. Station #6", "FIRE STATION", [ "{\"address\":\"4302 W. Western Ave.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46619\"}", "41.67183473200049", "-86.30718176299968", null, false ], "South Bend", "46619", "Indiana", "574-235-9691" ]
+, [ 7, "29349103-0185-426C-B327-0354B1D95BD5", 7, 1373484628, "713197", 1373484642, "713197", "{\n}", "South Bend Fire Dept. Station #7", "FIRE STATION", [ "{\"address\":\"1616 Portage Ave.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}", "41.69653057200048", "-86.27058017399969", null, false ], "South Bend", "46616", "Indiana", "574-235-9767" ]
+, [ 8, "4759109E-9FFB-4AA6-A9D6-37F3C49C5CA7", 8, 1373484628, "713197", 1373484642, "713197", "{\n}", "South Bend Fire Dept. Station #9", "FIRE STATION", [ "{\"address\":\"2520 Mishawaka Ave.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}", "41.6657208470005", "-86.21102100299964", null, false ], "South Bend", "46615", "Indiana", "574-235-9900" ]
+, [ 9, "0E0F0BD1-2D81-40E3-A982-DD39CFE272CC", 9, 1373484628, "713197", 1373484642, "713197", "{\n}", "South Bend Fire Dept. Station #10", "FIRE STATION", [ "{\"address\":\"5303 York Road\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46614\"}", "41.61974499100046", "-86.22520402199967", null, false ], "South Bend", "46614", "Indiana", "574-291-1309" ]
+, [ 10, "C64D4337-815A-45E4-B0DB-94936561ADDC", 10, 1373484628, "713197", 1373484642, "713197", "{\n}", "South Bend Fire Dept. Station #11", "FIRE STATION", [ "{\"address\":\"3505 N. Bendix Dr.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.72318967400048", "-86.29200404599965", null, false ], "South Bend", "46628", "Indiana", "574-235-9385" ]
+, [ 11, "DAF363B8-7581-46F0-929E-A4EFE6BFEBC9", 11, 1373484628, "713197", 1373484642, "713197", "{\n}", "Mishawaka Fire Dept. Station #1", "FIRE STATION", [ "{\"address\":\"600 Union St.\",\"city\":\"Mishawaka\",\"state\":\"Indiana\",\"zip\":\"46544\"}", "41.65585337700048", "-86.17692383499968", null, false ], "Mishawaka", "46544", "Indiana", "574-258-1674" ]
+, [ 12, "E7687F0C-19D6-447C-8EF6-7DD7F848C52F", 12, 1373484628, "713197", 1373484642, "713197", "{\n}", "Mishawaka Fire Dept. Station #2", "FIRE STATION", [ "{\"address\":\"2332 N. Main St.\",\"city\":\"Mishawaka\",\"state\":\"Indiana\",\"zip\":\"46544\"}", "41.681103660000474", "-86.18137563599964", null, false ], "Mishawaka", "46544", "Indiana", "574-258-1697" ]
+, [ 13, "07F9D00F-3865-4882-8457-0903824CEFED", 13, 1373484628, "713197", 1373484642, "713197", "{\n}", "Mishawaka Fire Dept. Station #4", "FIRE STATION", [ "{\"address\":\"3000 Harrison Rd\",\"city\":\"Mishawaka\",\"state\":\"Indiana\",\"zip\":\"46544\"}", "41.65146299200046", "-86.13096194099967", null, false ], "Mishawaka", "46544", "Indiana", "574-258-1704" ]
+, [ 14, "797D5107-D406-4334-9BA6-96CD4258B6E6", 14, 1373484628, "713197", 1373484642, "713197", "{\n}", "South Bend Fire Dept. Station #8", "FIRE STATION", [ "{\"address\":\"2402 Twykenham Dr.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46614\"}", "41.622684060000495", "-86.24747834599964", null, false ], "South Bend", "46614", "Indiana", "574-235-9888" ]
+, [ 15, "6689D370-166E-4305-8FCF-F5BB87E112E8", 15, 1373484628, "713197", 1373484642, "713197", "{\n}", "Centre Twp. Fire", "FIRE STATION", [ "{\"address\":\"19971 Kern Road\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46614\"}", "41.608337261000486", "-86.25311604899969", null, false ], "South Bend", "46614", "Indiana", "574-291-1677" ]
+, [ 16, "AD549CFB-5994-4096-A231-72D7660020CF", 16, 1373484628, "713197", 1373484642, "713197", "{\n}", "Clay Twp. Sta. 1", "FIRE STATION", [ "{\"address\":\"18776 Cleveland\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46637\"}", "41.72332113800047", "-86.23148092899964", null, false ], "South Bend", "46637", "Indiana", "574-272-3012" ]
+, [ 17, "C46FA676-D60C-48A6-976A-8F4796A50A75", 17, 1373484628, "713197", 1373484642, "713197", "{\n}", "Clay Twp. Sta. 2", "FIRE STATION", [ "{\"address\":\"18355 Auten Road\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46637\"}", "41.745350472000496", "-86.22409018899964", null, false ], "South Bend", "46637", "Indiana", "574-272-1710" ]
+, [ 18, "D0642D27-97D3-4510-AD3E-EC80CDE6DEB8", 18, 1373484628, "713197", 1373484642, "713197", "{\n}", "German Twp. Sta. 1", "FIRE STATION", [ "{\"address\":\"51775 Portage Road\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.74029080100047", "-86.29557087399968", null, false ], "South Bend", "46628", "Indiana", "574-272-9828" ]
+, [ 19, "C1A6261D-E5E6-4468-82B7-85270EC6336D", 19, 1373484628, "713197", 1373484642, "713197", "{\n}", "German Twp. Sta. 2", "FIRE STATION", [ "{\"address\":\"23747 Keller Road\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.69716158800048", "-86.32726932899965", null, false ], "South Bend", "46628", "Indiana", "574-232-6652" ]
+, [ 20, "AC11BEFF-3B9D-4ADD-96E4-3C89B38DDAD0", 20, 1373484628, "713197", 1373484642, "713197", "{\n}", "Harris Twp. Sta. 2", "FIRE STATION", [ "{\"address\":\"12481 Anderson\",\"city\":\"Granger\",\"state\":\"Indiana\",\"zip\":\"46350\"}", "41.615093335000495", "-86.73039963799965", null, false ], "Granger", "46350", "Indiana", "574-273-8178" ]
+, [ 21, "425B9C73-E6B4-4E75-8CF8-58A0606656F3", 21, 1373484628, "713197", 1373484642, "713197", "{\n}", "New Carlisle Fire", "FIRE STATION", [ "{\"address\":\"210 Michigan\",\"city\":\"New Carlisle\",\"state\":\"Indiana\",\"zip\":\"46552\"}", "41.70646011100047", "-86.51996667599968", null, false ], "New Carlisle", "46552", "Indiana", "574-654-3244" ]
+, [ 22, "6F77EA5E-155D-4DF3-8843-71A6B2F434E4", 22, 1373484628, "713197", 1373484642, "713197", "{\n}", "New Carlisle Ambulanc", "FIRE STATION", [ "{\"address\":\"210 Michigan\",\"city\":\"New Carlisle\",\"state\":\"Indiana\",\"zip\":\"46552\"}", "41.70646011100047", "-86.51996667599968", null, false ], "New Carlisle", "46552", "Indiana", "574-654-8801" ]
+, [ 23, "0EC610FE-E51D-4212-9E1D-B6048CFC8758", 23, 1373484628, "713197", 1373484642, "713197", "{\n}", "North Liberty Fire", "FIRE STATION", [ "{\"address\":\"112 S. State Street\",\"city\":\"North Liberty\",\"state\":\"Indiana\",\"zip\":\"46554\"}", "41.53441973200046", "-86.42712027299967", null, false ], "North Liberty", "46554", "Indiana", "574-656-3163" ]
+, [ 24, "A3D2EFE3-C889-493A-9AF4-A326981307D4", 24, 1373484628, "713197", 1373484642, "713197", "{\n}", "Osceola Twp. Fire", "FIRE STATION", [ "{\"address\":\"620 Rogers\",\"city\":\"Osceola\",\"state\":\"Indiana\",\"zip\":\"46561\"}", "41.6644618250005", "-86.09286693399969", null, false ], "Osceola", "46561", "Indiana", "574-674-6244" ]
+, [ 25, "3896407D-0139-416F-A811-81B331A7E07D", 25, 1373484628, "713197", 1373484642, "713197", "{\n}", "Penn North Fire", "FIRE STATION", [ "{\"address\":\"13750 McKinley\",\"city\":\"Mishawaka\",\"state\":\"Indiana\",\"zip\":\"46545\"}", "41.680510391000496", "-86.13212077099968", null, false ], "Mishawaka", "46545", "Indiana", "574-259-1030" ]
+, [ 26, "D72FC7AF-1413-492A-A839-EA88ECB64E45", 26, 1373484628, "713197", 1373484642, "713197", "{\n}", "Penn South Sta. 1", "FIRE STATION", [ "{\"address\":\"14940 Jackson Road\",\"city\":\"Mishawaka\",\"state\":\"Indiana\",\"zip\":\"46544\"}", "41.622370832000456", "-86.15641088399968", null, false ], "Mishawaka", "46544", "Indiana", "574-255-4433" ]
+, [ 27, "73E545FE-7B5C-45AE-A5AC-6B217B13054B", 27, 1373484628, "713197", 1373484642, "713197", "{\n}", "Penn South Sta. 2", "FIRE STATION", [ "{\"address\":\"10701 Ireland Road\",\"city\":\"Mishawaka\",\"state\":\"Indiana\",\"zip\":\"46544\"}", "41.62955260300049", "-86.15267715299967", null, false ], "Mishawaka", "46544", "Indiana", "574-674-6747" ]
+, [ 28, "0B590476-0369-4B46-9327-5B5C70B7C276", 28, 1373484628, "713197", 1373484642, "713197", "{\n}", "Portage Twp. Fire", "FIRE STATION", [ "{\"address\":\"23626 Fillmore\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46619\"}", "41.6790101200005", "-86.32436064999968", null, false ], "South Bend", "46619", "Indiana", "574-288-5956" ]
+, [ 29, "06C81DBA-AAA4-4457-AA1D-2D64F2E9B739", 29, 1373484628, "713197", 1373484642, "713197", "{\n}", "Warren Twp. Sta. 1", "FIRE STATION", [ "{\"address\":\"54837 Quince Road\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46619\"}", "41.69597952300046", "-86.38020498499964", null, false ], "South Bend", "46619", "Indiana", "574-232-4028" ]
+, [ 30, "83B7C8E9-C6A2-4AA7-8CAA-3979E43877B7", 30, 1373484628, "713197", 1373484642, "713197", "{\n}", "Warren Twp. Sta. 2", "FIRE STATION", [ "{\"address\":\"59330 Crumstown Hwy.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46619\"}", "41.636031379000485", "-86.39702842199966", null, false ], "South Bend", "46619", "Indiana", "574-289-2909" ]
+, [ 31, "EE4C5BC2-8E39-4BA6-920B-4F153D2D89B4", 31, 1373484628, "713197", 1373484642, "713197", "{\n}", "Harris Twp. Sta. 1", "FIRE STATION", [ "{\"address\":\"13981 SR 23\",\"city\":\"Granger\",\"state\":\"Indiana\",\"zip\":\"46350\"}", "41.743374161000474", "-86.13930218899964", null, false ], "Granger", "46350", "Indiana", "574-272-4499" ]
+, [ 32, "9FC0E3A0-2B9F-4DAC-A3E8-26BE11D86F60", 32, 1373484628, "713197", 1373484642, "713197", "{\n}", "Lakeville Fire", "FIRE STATION", [ "{\"address\":\"117 N. Main\",\"city\":\"Lakeville\",\"state\":\"Indiana\",\"zip\":\"46536\"}", "41.524504316000446", "-86.27659857299966", null, false ], "Lakeville", "46536", "Indiana", "574-784-2698" ]
+, [ 33, "3E7A28B1-63EE-4B1C-B400-AEE9D0435633", 33, 1373484628, "713197", 1373484642, "713197", "{\n}", "Madison Twp. Fire", "FIRE STATION", [ "{\"address\":\"66341 SR 331\",\"city\":\"Wyatt\",\"state\":\"Indiana\",\"zip\":\"46595\"}", "41.52580347200046", "-86.16939859699966", null, false ], "Wyatt", "46595", "Indiana", "574-633-4915" ]
+, [ 34, "33A53077-F249-43B9-AC4A-F112EE63778F", 34, 1373484628, "713197", 1373484642, "713197", "{\n}", "Mishawaka EMS Station", "FIRE STATION", [ "{\"address\":\"333 E. Mishawaka Ave\",\"city\":\"Mishawaka\",\"state\":\"Indiana\",\"zip\":\"46545\"}", "41.666220937000446", "-86.17789057999966", null, false ], "Mishawaka", "46545", "Indiana", "574-258-1675" ]
+, [ 35, "78D18E5A-AE68-430D-A389-9CFFFC3D8F74", 35, 1373484628, "713197", 1373484642, "713197", "{\n}", "Mishawaka Fire Dept. Station #3", "FIRE STATION", [ "{\"address\":\"333 E Douglas Road\",\"city\":\"Mishawaka\",\"state\":\"Indiana\",\"zip\":\"46645\"}", "41.709469466000485", "-86.17766101299964", null, false ], "Mishawaka", "46645", "Indiana", "574-247-0928" ]
+, [ 36, "7DC96857-9F29-441A-9D78-654EE6E33BC2", 36, 1373484628, "713197", 1373484642, "713197", "{\n}", "South Bend Police Department", "POLICE STATION", [ "{\"address\":\"101 W SAMPLE\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46619\"}", "41.66452382300048", "-86.32689998899968", null, false ], "South Bend", "46619", "Indiana", "574-245-6500" ]
+, [ 37, "679BFA30-6865-4B66-B4BB-350C9CBFB60C", 37, 1373484628, "713197", 1373484642, "713197", "{\n}", "Mishawaka Police Department", "POLICE STATION", [ "{\"address\":\"200 N CHURCH ST\",\"city\":\"Mishawaka\",\"state\":\"Indiana\",\"zip\":\"46544\"}", "41.66218651300045", "-86.17930931799964", null, false ], "Mishawaka", "46544", "Indiana", "574-258-1768" ]
+, [ 38, "B79BBC11-B747-4225-99FC-56483E3F8B32", 38, 1373484628, "713197", 1373484642, "713197", "{\n}", "St. Joseph County Jail", "POLICE STATION", [ "{\"address\":\"701 W SAMPLE\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46625\"}", "41.67905056300049", "-86.25404046099965", null, false ], "South Bend", "46625", "Indiana", "574-235-9201" ]
+, [ 39, "702B8557-B273-4990-9940-E7DC78974D5D", 39, 1373484628, "713197", 1373484642, "713197", "{\n}", "Mishawaka Public Library", "LIBRARY", [ "{\"address\":\"209 Lincoln Way East\",\"city\":\"Mishawaka\",\"state\":\"Indiana\",\"zip\":\"46544\"}", "41.66108696000049", "-86.17904246599966", null, false ], "Mishawaka", "46544", "Indiana", "574-259-5277" ]
+, [ 40, "CF621BB3-3A16-4119-8D3D-2AA8C7C05B61", 40, 1373484628, "713197", 1373484642, "713197", "{\n}", "Mishawaka Public Library Bittersweet Branch", "LIBRARY", [ "{\"address\":\"602 Bittersweet Rd.\",\"city\":\"Mishawaka\",\"state\":\"Indiana\",\"zip\":\"46544\"}", "41.670030383000494", "-86.10949109799964", null, false ], "Mishawaka", "46544", "Indiana", "574-259-0392" ]
+, [ 41, "851EB012-58A4-4869-8BD6-B4FD6EC95478", 41, 1373484628, "713197", 1373484642, "713197", "{\n}", "St. Joseph Co. Public Library Francis Branch", "LIBRARY", [ "{\"address\":\"52655 Ironwood Dr.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46635\"}", "41.72854097700048", "-86.21703015499969", null, false ], "South Bend", "46635", "Indiana", "574-282-4641" ]
+, [ 42, "5CFF528A-5F24-47D3-AE02-5D3C9E28AB5C", 42, 1373484628, "713197", 1373484642, "713197", "{\n}", "St. Joseph Co. Public Library Tutt Branch", "LIBRARY", [ "{\"address\":\"2223 Miami St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46613\"}", "41.65117097700045", "-86.23489053199967", null, false ], "South Bend", "46613", "Indiana", "574-282-4637" ]
+, [ 43, "921A7554-2DE7-4EE9-A747-0A2E23A03CA9", 43, 1373484628, "713197", 1373484642, "713197", "{\n}", "St. Joseph Co. Public Library River Park Branch", "LIBRARY", [ "{\"address\":\"2022 Mishawaka Av.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}", "41.6657208470005", "-86.21666027299966", null, false ], "South Bend", "46615", "Indiana", "574-282-4635" ]
+, [ 44, "C48EE194-2CD8-495A-B871-1A423F2159B9", 44, 1373484628, "713197", 1373484642, "713197", "{\n}", "St. Joseph Co. Public Library Main Branch", "LIBRARY", [ "{\"address\":\"304 S. Main St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}", "41.673543564000454", "-86.25187689899968", null, false ], "South Bend", "46601", "Indiana", "574-282-4646" ]
+, [ 45, "3CFA10B4-F4DD-42B5-A1FA-70F259B3F05E", 45, 1373484628, "713197", 1373484642, "713197", "{\n}", "St. Joseph Co. Public Library LaSalle Branch", "LIBRARY", [ "{\"address\":\"3232 Ardmore Tr.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.689051108000456", "-86.29552017399965", null, false ], "South Bend", "46628", "Indiana", "574-282-4633" ]
+, [ 46, "5B8BF85E-27D8-4D42-9B56-9CC810FE135F", 46, 1373484628, "713197", 1373484642, "713197", "{\n}", "St. Joseph Co. Public Library Centre Township Branch", "LIBRARY", [ "{\"address\":\"1150 Kern Rd\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46614\"}", "41.6076504240005", "-86.23378088399966", null, false ], "South Bend", "46614", "Indiana", "574-251-3700" ]
+, [ 47, "6CE6109E-DCFE-47D8-B182-48AF80465F5E", 47, 1373484628, "713197", 1373484642, "713197", "{\n}", "St. Joseph Co. Public Library Western Branch", "LIBRARY", [ "{\"address\":\"611 Lombardy Dr\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.70801127800047", "-86.30769577799964", null, false ], "South Bend", "46628", "Indiana", "574-282-4639" ]
+, [ 48, "D1D4831C-6696-40D7-85A0-F97691AB86FC", 48, 1373484628, "713197", 1373484642, "713197", "{\n}", "St. Joseph Co. Public Library German Township Branch", "LIBRARY", [ "{\"address\":\"52807 Lynnewood Av\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.72393320100048", "-86.28282263899968", null, false ], "South Bend", "46628", "Indiana", "574-271-5144" ]
+, [ 49, "1355156E-76D4-4EA5-AF77-8B511C91985D", 49, 1373484628, "713197", 1373484642, "713197", "{\n}", "St. Joseph Co. Public Library North Liberty Branch", "LIBRARY", [ "{\"address\":\"105 E Market St\",\"city\":\"North Liberty\",\"state\":\"Indiana\",\"zip\":\"46554\"}", "41.537320869000496", "-86.42789091599968", null, false ], "North Liberty", "46554", "Indiana", "574-656-3644" ]
+, [ 50, "22CE10A3-8C6C-4EDF-A025-1230E6C2917A", 50, 1373484628, "713197", 1373484642, "713197", "{\n}", "St. Joseph Co. Public Library Lakeville Branch", "LIBRARY", [ "{\"address\":\"120 N Michigan St\",\"city\":\"Lakeville\",\"state\":\"Indiana\",\"zip\":\"46536\"}", "41.52547079800047", "-86.27405084799966", null, false ], "Lakeville", "46536", "Indiana", "574-784-3446" ]
+, [ 51, "9A79A68C-A707-4BA5-90F8-AF704748541C", 51, 1373484628, "713197", 1373484642, "713197", "{\n}", "Mishawaka Public Library Harris Branch", "LIBRARY", [ "{\"address\":\"51446 Elm Rd\",\"city\":\"Granger\",\"state\":\"Indiana\",\"zip\":\"46530\"}", "41.74701091100047", "-86.13972007399968", null, false ], "Granger", "46530", "Indiana", "574-271-3179" ]
+ ]
+}

@@ -1,0 +1,9 @@
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 2\cView-P2-DanCassidy-Console\cView-P2-DanCassidy-Console\bin\Debug\cView-P2-DanCassidy-Console.exe.config
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 2\cView-P2-DanCassidy-Console\cView-P2-DanCassidy-Console\obj\Debug\cView-P2-DanCassidy-Console.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 2\cView-P2-DanCassidy-Console\cView-P2-DanCassidy-Console\bin\Debug\cView-P2-DanCassidy-Console.exe
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 2\cView-P2-DanCassidy-Console\cView-P2-DanCassidy-Console\bin\Debug\cView-P2-DanCassidy-Console.pdb
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 2\cView-P2-DanCassidy-Console\cView-P2-DanCassidy-Console\obj\Debug\cView-P2-DanCassidy-Console.exe
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 2\cView-P2-DanCassidy-Console\cView-P2-DanCassidy-Console\obj\Debug\cView-P2-DanCassidy-Console.pdb
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Homework\cView Phase 2\cView-P2-DanCassidy-Console\cView-P2-DanCassidy-Console\bin\Debug\cView-P2-DanCassidy-Console.exe.config
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Homework\cView Phase 2\cView-P2-DanCassidy-Console\cView-P2-DanCassidy-Console\obj\Debug\cView-P2-DanCassidy-Console.exe
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Homework\cView Phase 2\cView-P2-DanCassidy-Console\cView-P2-DanCassidy-Console\obj\Debug\cView-P2-DanCassidy-Console.pdb

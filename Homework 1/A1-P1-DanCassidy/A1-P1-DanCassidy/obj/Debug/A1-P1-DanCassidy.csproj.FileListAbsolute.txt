@@ -1,0 +1,6 @@
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Homework\Homework 1\A1-P1-DanCassidy\A1-P1-DanCassidy\bin\Debug\A1-P1-DanCassidy.exe.config
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Homework\Homework 1\A1-P1-DanCassidy\A1-P1-DanCassidy\bin\Debug\A1-P1-DanCassidy.exe
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Homework\Homework 1\A1-P1-DanCassidy\A1-P1-DanCassidy\bin\Debug\A1-P1-DanCassidy.pdb
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Homework\Homework 1\A1-P1-DanCassidy\A1-P1-DanCassidy\obj\Debug\A1-P1-DanCassidy.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Homework\Homework 1\A1-P1-DanCassidy\A1-P1-DanCassidy\obj\Debug\A1-P1-DanCassidy.exe
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Homework\Homework 1\A1-P1-DanCassidy\A1-P1-DanCassidy\obj\Debug\A1-P1-DanCassidy.pdb

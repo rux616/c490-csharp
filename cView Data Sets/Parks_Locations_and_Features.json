@@ -1,0 +1,1640 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "yf5x-7tkb",
+      "name" : "Parks Locations and Features",
+      "attribution" : "South Bend Parks & Recreaton",
+      "attributionLink" : "http://www.sbpark.org",
+      "averageRating" : 0,
+      "category" : "Parks & Recreation",
+      "createdAt" : 1376672107,
+      "description" : "Parks managed by the City of South Bend Parks & Recreation Department, and features available at each location.",
+      "displayType" : "table",
+      "downloadCount" : 32,
+      "indexUpdatedAt" : 1426780954,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 10653558,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1426780642,
+      "publicationGroup" : 1055301,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1426780618,
+      "rowsUpdatedBy" : "7avt-utx6",
+      "tableId" : 2509249,
+      "totalTimesRated" : 0,
+      "viewCount" : 169,
+      "viewLastModified" : 1426780642,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 195516765,
+        "name" : "Park Name",
+        "dataTypeName" : "text",
+        "fieldName" : "park_name",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 13216125,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 62,
+          "smallest" : "Belleville Park",
+          "null" : 0,
+          "largest" : "Woodlawn Park",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Ravina Park"
+          }, {
+            "count" : 19,
+            "item" : "River Manor Park"
+          }, {
+            "count" : 18,
+            "item" : "Riverside Park"
+          }, {
+            "count" : 17,
+            "item" : "Rum Village Annex"
+          }, {
+            "count" : 16,
+            "item" : "Rum Village Park"
+          }, {
+            "count" : 15,
+            "item" : "Ryer Mini Park"
+          }, {
+            "count" : 14,
+            "item" : "Seitz Park"
+          }, {
+            "count" : 13,
+            "item" : "Shetterley Park"
+          }, {
+            "count" : 12,
+            "item" : "Sorin Mini Park"
+          }, {
+            "count" : 11,
+            "item" : "Southeast Neighborhood Park"
+          }, {
+            "count" : 10,
+            "item" : "Four Winds Field"
+          }, {
+            "count" : 9,
+            "item" : "Studebaker Golf Course"
+          }, {
+            "count" : 8,
+            "item" : "Vassar Park"
+          }, {
+            "count" : 7,
+            "item" : "Veteran's Memorial Park"
+          }, {
+            "count" : 6,
+            "item" : "Viewing Park"
+          }, {
+            "count" : 5,
+            "item" : "Voorde Park"
+          }, {
+            "count" : 4,
+            "item" : "Walker Field Park"
+          }, {
+            "count" : 3,
+            "item" : "Westhaven Park"
+          }, {
+            "count" : 2,
+            "item" : "Lincoln Plaza Mini Park"
+          }, {
+            "count" : 1,
+            "item" : "Woodlawn Park"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195516798,
+        "name" : "Park Type",
+        "dataTypeName" : "text",
+        "fieldName" : "park_type",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 13216126,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 62,
+          "smallest" : "Block Park",
+          "null" : 0,
+          "largest" : "Zoo",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Community Park"
+          }, {
+            "count" : 19,
+            "item" : "Golf Course"
+          }, {
+            "count" : 18,
+            "item" : "Neighborhood Park"
+          }, {
+            "count" : 17,
+            "item" : "Cemetery"
+          }, {
+            "count" : 16,
+            "item" : "Block Park"
+          }, {
+            "count" : 15,
+            "item" : "Special"
+          }, {
+            "count" : 14,
+            "item" : "Memorial"
+          }, {
+            "count" : 13,
+            "item" : "Zoo"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195516815,
+        "name" : "Zip Code",
+        "dataTypeName" : "text",
+        "fieldName" : "zip_code",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 13216127,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 62,
+          "smallest" : "46601",
+          "null" : 0,
+          "largest" : "46635",
+          "top" : [ {
+            "count" : 20,
+            "item" : "46619"
+          }, {
+            "count" : 19,
+            "item" : "46628"
+          }, {
+            "count" : 18,
+            "item" : "46617"
+          }, {
+            "count" : 17,
+            "item" : "46635"
+          }, {
+            "count" : 16,
+            "item" : "46613"
+          }, {
+            "count" : 15,
+            "item" : "46616"
+          }, {
+            "count" : 14,
+            "item" : "46615"
+          }, {
+            "count" : 13,
+            "item" : "46614"
+          }, {
+            "count" : 12,
+            "item" : "46601"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195516859,
+        "name" : "Aqua Feat, Pool",
+        "dataTypeName" : "number",
+        "fieldName" : "aqua_feat_pool",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216128,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1",
+          "sum" : "2",
+          "null" : 60,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195516903,
+        "name" : "Aqua Feat, Spray",
+        "dataTypeName" : "number",
+        "fieldName" : "aqua_feat_spray",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216129,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "1",
+          "sum" : "5",
+          "null" : 57,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195516904,
+        "name" : "Backstop, Practice",
+        "dataTypeName" : "number",
+        "fieldName" : "backstop_practice",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216130,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "1",
+          "sum" : "3",
+          "null" : 59,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195516948,
+        "name" : "Ballfield",
+        "dataTypeName" : "number",
+        "fieldName" : "ballfield",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216131,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "1",
+          "sum" : "23",
+          "null" : 49,
+          "average" : "1.769230769230769",
+          "largest" : "7",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195516949,
+        "name" : "Basketball",
+        "dataTypeName" : "number",
+        "fieldName" : "basketball",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216132,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "0.5",
+          "sum" : "20.0",
+          "null" : 46,
+          "average" : "1.25",
+          "largest" : "4",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          }, {
+            "count" : 18,
+            "item" : "0.5"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195516993,
+        "name" : "Blueway",
+        "dataTypeName" : "number",
+        "fieldName" : "blueway",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216133,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 61,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195516994,
+        "name" : "Complex, Ballfield",
+        "dataTypeName" : "text",
+        "fieldName" : "complex_ballfield",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 13216134,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "null" : 61,
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195516995,
+        "name" : "Complex, Tennis",
+        "dataTypeName" : "number",
+        "fieldName" : "complex_tennis",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216135,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 61,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195516996,
+        "name" : "Concessions",
+        "dataTypeName" : "number",
+        "fieldName" : "concessions",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216136,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1",
+          "sum" : "2",
+          "null" : 60,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195516997,
+        "name" : "Disk Golf",
+        "dataTypeName" : "number",
+        "fieldName" : "disk_golf",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216137,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 61,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517041,
+        "name" : "Driving Range",
+        "dataTypeName" : "number",
+        "fieldName" : "driving_range",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216138,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 61,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517085,
+        "name" : "Educational Experience",
+        "dataTypeName" : "number",
+        "fieldName" : "educational_experience",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216139,
+        "width" : 364,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "1",
+          "sum" : "8",
+          "null" : 54,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517086,
+        "name" : "Event Space",
+        "dataTypeName" : "number",
+        "fieldName" : "event_space",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216140,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "1",
+          "sum" : "5",
+          "null" : 57,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517130,
+        "name" : "Fitness Course",
+        "dataTypeName" : "number",
+        "fieldName" : "fitness_course",
+        "position" : 17,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216141,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 61,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517174,
+        "name" : "Garden, Community",
+        "dataTypeName" : "number",
+        "fieldName" : "garden_community",
+        "position" : 18,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216142,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "1",
+          "sum" : "3",
+          "null" : 59,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517175,
+        "name" : "Garden, Display",
+        "dataTypeName" : "number",
+        "fieldName" : "garden_display",
+        "position" : 19,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216143,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "1",
+          "sum" : "5",
+          "null" : 59,
+          "average" : "1.666666666666667",
+          "largest" : "2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517219,
+        "name" : "Golf",
+        "dataTypeName" : "number",
+        "fieldName" : "golf",
+        "position" : 20,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216144,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "0.5",
+          "sum" : "3.5",
+          "null" : 58,
+          "average" : "0.875",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "0.5"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517263,
+        "name" : "Hockey, Ice",
+        "dataTypeName" : "number",
+        "fieldName" : "hockey_ice",
+        "position" : 21,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216145,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 61,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517307,
+        "name" : "Loop Walk",
+        "dataTypeName" : "number",
+        "fieldName" : "loop_walk",
+        "position" : 22,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216146,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "1",
+          "sum" : "10",
+          "null" : 54,
+          "average" : "1.25",
+          "largest" : "3",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "3"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517308,
+        "name" : "MP Field, Large",
+        "dataTypeName" : "number",
+        "fieldName" : "mp_field_large",
+        "position" : 23,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216147,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 11,
+          "smallest" : "1",
+          "sum" : "16",
+          "null" : 51,
+          "average" : "1.454545454545455",
+          "largest" : "4",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "4"
+          }, {
+            "count" : 18,
+            "item" : "2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517352,
+        "name" : "MP Field, Multiple",
+        "dataTypeName" : "number",
+        "fieldName" : "mp_field_multiple",
+        "position" : 24,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216148,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "5",
+          "sum" : "5",
+          "null" : 61,
+          "average" : "5",
+          "largest" : "5",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517353,
+        "name" : "MP Field, Small",
+        "dataTypeName" : "number",
+        "fieldName" : "mp_field_small",
+        "position" : 25,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216149,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "1",
+          "sum" : "5",
+          "null" : 57,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517397,
+        "name" : "Multiuse Court",
+        "dataTypeName" : "number",
+        "fieldName" : "multiuse_court",
+        "position" : 26,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216150,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 61,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517441,
+        "name" : "Natural Area",
+        "dataTypeName" : "number",
+        "fieldName" : "natural_area",
+        "position" : 27,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216151,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "1",
+          "sum" : "10",
+          "null" : 52,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517442,
+        "name" : "Open Turf",
+        "dataTypeName" : "number",
+        "fieldName" : "open_turf",
+        "position" : 28,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216152,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "1",
+          "sum" : "17",
+          "null" : 45,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517486,
+        "name" : "Open Water",
+        "dataTypeName" : "number",
+        "fieldName" : "open_water",
+        "position" : 29,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216153,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "1",
+          "sum" : "19",
+          "null" : 45,
+          "average" : "1.117647058823529",
+          "largest" : "2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517487,
+        "name" : "Other - Active",
+        "dataTypeName" : "number",
+        "fieldName" : "other_active",
+        "position" : 30,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216154,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 61,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517531,
+        "name" : "Other-Passive",
+        "dataTypeName" : "number",
+        "fieldName" : "other_passive",
+        "position" : 31,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216155,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 61,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517532,
+        "name" : "Passive Node",
+        "dataTypeName" : "number",
+        "fieldName" : "passive_node",
+        "position" : 32,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216156,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 11,
+          "smallest" : "1",
+          "sum" : "18",
+          "null" : 51,
+          "average" : "1.636363636363636",
+          "largest" : "4",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          }, {
+            "count" : 18,
+            "item" : "2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517576,
+        "name" : "Picnic Grounds",
+        "dataTypeName" : "number",
+        "fieldName" : "picnic_grounds",
+        "position" : 33,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216157,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "1",
+          "sum" : "20",
+          "null" : 53,
+          "average" : "2.222222222222222",
+          "largest" : "12",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517614,
+        "name" : "Playground, Destination",
+        "dataTypeName" : "number",
+        "fieldName" : "playground_destination",
+        "position" : 34,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216158,
+        "width" : 376,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "1",
+          "sum" : "7",
+          "null" : 56,
+          "average" : "1.166666666666667",
+          "largest" : "2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517621,
+        "name" : "Playground, Local",
+        "dataTypeName" : "number",
+        "fieldName" : "playground_local",
+        "position" : 35,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216159,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "1",
+          "sum" : "33",
+          "null" : 33,
+          "average" : "1.137931034482759",
+          "largest" : "2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517665,
+        "name" : "Public Art",
+        "dataTypeName" : "number",
+        "fieldName" : "public_art",
+        "position" : 36,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216160,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1",
+          "sum" : "2",
+          "null" : 60,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517666,
+        "name" : "Shelter",
+        "dataTypeName" : "number",
+        "fieldName" : "shelter",
+        "position" : 37,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216161,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "1",
+          "sum" : "5",
+          "null" : 58,
+          "average" : "1.25",
+          "largest" : "2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517710,
+        "name" : "Shelter, Group",
+        "dataTypeName" : "number",
+        "fieldName" : "shelter_group",
+        "position" : 38,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216162,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "1",
+          "sum" : "20",
+          "null" : 49,
+          "average" : "1.538461538461538",
+          "largest" : "4",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517711,
+        "name" : "Skate Park",
+        "dataTypeName" : "number",
+        "fieldName" : "skate_park",
+        "position" : 39,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216163,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 61,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517755,
+        "name" : "Sledding Hill",
+        "dataTypeName" : "number",
+        "fieldName" : "sledding_hill",
+        "position" : 40,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216164,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1",
+          "sum" : "2",
+          "null" : 60,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517756,
+        "name" : "Structure",
+        "dataTypeName" : "number",
+        "fieldName" : "structure",
+        "position" : 41,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216165,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "1",
+          "sum" : "6",
+          "null" : 57,
+          "average" : "1.2",
+          "largest" : "2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517800,
+        "name" : "Tennis",
+        "dataTypeName" : "number",
+        "fieldName" : "tennis",
+        "position" : 42,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216166,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "2",
+          "sum" : "47",
+          "null" : 49,
+          "average" : "3.615384615384615",
+          "largest" : "15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "4"
+          }, {
+            "count" : 18,
+            "item" : "15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517836,
+        "name" : "Trail, Primitive",
+        "dataTypeName" : "number",
+        "fieldName" : "trail_primitive",
+        "position" : 43,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216167,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 61,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517845,
+        "name" : "Volleyball",
+        "dataTypeName" : "text",
+        "fieldName" : "volleyball",
+        "position" : 44,
+        "renderTypeName" : "text",
+        "tableColumnId" : 13216168,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 62
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517846,
+        "name" : "Water Access, Developed",
+        "dataTypeName" : "number",
+        "fieldName" : "water_access_developed",
+        "position" : 45,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216169,
+        "width" : 376,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "1",
+          "sum" : "10",
+          "null" : 54,
+          "average" : "1.25",
+          "largest" : "2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517848,
+        "name" : "Water Access, General",
+        "dataTypeName" : "number",
+        "fieldName" : "water_access_general",
+        "position" : 46,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216170,
+        "width" : 352,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "1",
+          "sum" : "7",
+          "null" : 55,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517915,
+        "name" : "Water Feature",
+        "dataTypeName" : "number",
+        "fieldName" : "water_feature",
+        "position" : 47,
+        "renderTypeName" : "number",
+        "tableColumnId" : 13216171,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 61,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 195517977,
+        "name" : "Location 1",
+        "dataTypeName" : "location",
+        "fieldName" : "location_1",
+        "position" : 48,
+        "renderTypeName" : "location",
+        "tableColumnId" : 13216172,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 62,
+          "smallest" : {
+            "longitude" : "-86.26449754599969",
+            "latitude" : "41.69323166000049",
+            "human_address" : "{\"address\":\"1022 Angela Blvd\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-86.23649851699969",
+            "latitude" : "41.68411374800047",
+            "human_address" : "{\"address\":\"935 Niles\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-86.23819020199994",
+              "latitude" : "41.65941212900003",
+              "human_address" : "{\"address\":\"1522 Lebanon St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46613\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-86.27364228199997",
+              "latitude" : "41.72756648700005",
+              "human_address" : "{\"address\":\"3811 Glenview Dr.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-86.26930036299996",
+              "latitude" : "41.72734727200003",
+              "human_address" : "{\"address\":\"3840 Riverside Drive\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-86.27311700399997",
+              "latitude" : "41.64682858700007",
+              "human_address" : "{\"address\":\"2700 Gertrude St\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46614\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-86.30769577799964",
+              "latitude" : "41.70801127800047",
+              "human_address" : "{\"address\":\"1565 Ryer St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-86.24976801199995",
+              "latitude" : "41.677774234000026",
+              "human_address" : "{\"address\":\"340 E. Colfax\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-86.25964790099965",
+              "latitude" : "41.68909715900048",
+              "human_address" : "{\"address\":\"1044 Riverside Drive\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-86.20077129399994",
+              "latitude" : "41.68463344500003",
+              "human_address" : "{\"address\":\"3366 Sorin Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-86.24358121899996",
+              "latitude" : "41.662587544000075",
+              "human_address" : "{\"address\":\"503 Wenger Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-86.25358006499994",
+              "latitude" : "41.66959830800005",
+              "human_address" : "{\"address\":\"301 W. South St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-86.25964338499966",
+              "latitude" : "41.65411663000049",
+              "human_address" : "{\"address\":\"718 Calvert Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46613\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-86.26493242799967",
+              "latitude" : "41.6894837530005",
+              "human_address" : "{\"address\":\"1100 Sherman Avenue\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-86.22534233699997",
+              "latitude" : "41.66026248600008",
+              "human_address" : "{\"address\":\"1501 Northside Blvd\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-86.23634464699967",
+              "latitude" : "41.66749187200048",
+              "human_address" : "{\"address\":\"900 Northside Blvd\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-86.29765393399998",
+              "latitude" : "41.69730839600004",
+              "human_address" : "{\"address\":\"3433 Keller St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-86.27071853799998",
+              "latitude" : "41.65108868200008",
+              "human_address" : "{\"address\":\"2212 S. Walnut Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46613\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "longitude" : "-86.30599056399967",
+              "latitude" : "41.6904709370005",
+              "human_address" : "{\"address\":\"1220 Sussex Drive\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "longitude" : "-86.29728166299998",
+              "latitude" : "41.69606624900007",
+              "human_address" : "{\"address\":\"1601 Ryer St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "longitude" : "-86.26795445899995",
+              "latitude" : "41.70574295900008",
+              "human_address" : "{\"address\":\"2166 Riverside Drive\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "longitude" : "-86.23537697299997",
+              "latitude" : "41.68508008500004",
+              "human_address" : "{\"address\":\"727 S. Eddy St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Update Frequency" : {
+            "Frequency" : "Yearly"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "park_name"
+          } ]
+        },
+        "filterCondition" : {
+          "value" : "AND",
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2,
+            "advanced" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "7avt-utx6",
+        "displayName" : "bcummins",
+        "roleName" : "administrator",
+        "screenName" : "bcummins",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 195516765,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 195516765,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "7avt-utx6",
+        "displayName" : "bcummins",
+        "roleName" : "administrator",
+        "screenName" : "bcummins",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "parks", "sports", "aquatics", "recreation" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "D159BFB5-F687-4515-B598-B3854D5F98DF", 1, 1376672114, "713197", 1376672148, "713197", "{\n}", "Belleville Park", "Community Park", "46619", null, null, null, "7", "2", null, "1", null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, "1", null, null, null, "2", null, null, null, null, null, [ "{\"address\":\"1300 S. Mayflower Road\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46619\"}", "41.66003226000049", "-86.32198280299968", null, false ] ]
+, [ 2, "D786FFE9-4A12-4327-B0F3-C27B3B32DE1C", 2, 1376672114, "713197", 1376672148, "713197", "{\n}", "Blackthorn Golf Course", "Golf Course", "46628", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"6100 Nimtz Parkway\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.72254377100046", "-86.33406577499966", null, false ] ]
+, [ 3, "48ED911E-B227-4F66-9770-D80FBB3B87B9", 3, 1376672114, "713197", 1426707734, "713197", null, "Boehm Park", "Community Park", "46617", null, null, null, "2", "2", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "5", null, null, null, null, null, null, null, null, "1", null, "2", null, null, "1", null, null, null, "4", null, null, null, null, null, [ "{\"address\":\"3205 Edison Road\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}", "41.694669059000034", "-86.20279481199998", null, false ] ]
+, [ 4, "E561E892-24D1-44F3-BE41-CA0989D10239", 4, 1376672114, "713197", 1426707928, "713197", null, "Boland Park", "Community Park", "46628", null, null, null, "2", "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, "1", null, null, "1", null, null, null, "2", null, null, null, null, null, [ "{\"address\":\"3000 Bendix\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.70800951800004", "-86.30776964199998", null, false ] ]
+, [ 5, "FFA5FEC6-BA3C-494B-B1E1-712778A86D48", 5, 1376672114, "713197", 1376672148, "713197", "{\n}", "Booth Tarkington", "Neighborhood Park", "46635", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "4", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1722 Rerick Drive\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46635\"}", "41.69871230300049", "-86.20190786599966", null, false ] ]
+, [ 6, "AE388854-50BA-4123-8088-F618D2F9CF8C", 6, 1376672114, "713197", 1426707969, "713197", null, "Bowman Cemetery", "Cemetery", "46613", null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1700 S. Miami Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46613\"}", "41.65777328200005", "-86.23495205399996", null, false ] ]
+, [ 7, "EECBDCE0-EF12-4575-98B7-BA26C1E7BABF", 7, 1376672114, "713197", 1376672148, "713197", "{\n}", "Brownfield Park", "Block Park", "46616", null, null, "1", null, "0.5", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1022 Angela Blvd\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}", "41.69323166000049", "-86.26449754599969", null, false ] ]
+, [ 8, "8ADC6331-B201-4D0F-BDB7-A04C6142420B", 8, 1376672114, "713197", 1376672148, "713197", "{\n}", "City Cemetery", "Cemetery", "46616", null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"214 Elm Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}", "41.67766498600048", "-86.26776489199966", null, false ] ]
+, [ 9, "7938042A-40A3-4B64-8964-E4BDDA53A564", 9, 1376672114, "713197", 1426708034, "713197", null, "Coquillard Park", "Neighborhood Park", "46617", null, "1", null, null, "0.5", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, "2", null, null, "1", null, null, null, "2", null, null, null, null, null, [ "{\"address\":\"1300 Campaeu\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}", "41.68598225900007", "-86.23081651199999", null, false ] ]
+, [ 10, "4182F981-587B-4201-A16E-9C7C8633CE69", 10, 1376672114, "713197", 1376672148, "713197", "{\n}", "East Race Trail", "Special", "46617", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, "4", null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, [ "{\"address\":\"935 Niles\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}", "41.68411374800047", "-86.23649851699969", null, false ] ]
+, [ 11, "B4D92EA1-C947-4914-932F-CCA304CEC02A", 11, 1376672114, "713197", 1426708056, "713197", null, "East Race Waterway", "Community Park", "46617", null, null, null, null, null, "1", null, null, null, null, null, "1", "1", "1", null, null, null, null, "1", null, null, null, null, null, null, null, "1", null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"126 N. Niles\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}", "41.67740127900004", "-86.24432328899996", null, false ] ]
+, [ 12, "1EFEF633-6699-48C6-B8D4-328D5AC1F288", 12, 1376672114, "713197", 1426708075, "713197", null, "Edison Park", "Neighborhood Park", "46615", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, "1", null, null, null, null, null, null, "2", null, null, null, null, null, [ "{\"address\":\"2400 Rockne Dr\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}", "41.68932081300005", "-86.21338156199994", null, false ] ]
+, [ 13, "F7B3BB7D-0597-48F9-A679-69D6E16BA06F", 13, 1376672114, "713197", 1376672148, "713197", "{\n}", "Elbel Golf Course", "Golf Course", "46628", null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, "1", null, null, null, null, null, null, null, null, "2", null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, [ "{\"address\":\"26595 Auten Road\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.74452579300049", "-86.38303277099965", null, false ] ]
+, [ 14, "CA34C1BD-B610-434D-9554-A521E6D02537", 14, 1376672114, "713197", 1376672148, "713197", "{\n}", "Erskine Golf Course", "Golf Course", "46614", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, "1", "1", null, null, null, null, null, null, [ "{\"address\":\"4200 Miami Road\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46614\"}", "41.63237676200049", "-86.23474588899967", null, false ] ]
+, [ 52, "1500F6B9-714A-4161-BD25-054EC066CC78", 52, 1376672114, "713197", 1426778656, "713197", null, "Four Winds Field", "Community Park", "46601", null, null, null, "1", null, null, null, null, "1", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"301 W. South St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}", "41.66959830800005", "-86.25358006499994", null, false ] ]
+, [ 15, "4948F4E2-8E19-4C47-96D5-D0A4CB326B7F", 15, 1376672114, "713197", 1376672148, "713197", "{\n}", "Fredrickson Park", "Neighborhood Park", "46617", null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, "1", null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1330 South Bend Avenue\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}", "41.6905863180005", "-86.23014733899964", null, false ] ]
+, [ 16, "71BAEC4D-CBAA-481E-9966-55B89029A92D", 16, 1376672114, "713197", 1376672148, "713197", "{\n}", "Fremont Park", "Block Park", "46628", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, "1", null, null, null, null, null, null, "1", null, null, "1", null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1800 North Fremont Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.6993638400005", "-86.28497231499966", null, false ] ]
+, [ 17, "94AFDF84-0E24-40BD-BCC0-57AD17345425", 17, 1376672114, "713197", 1376672148, "713197", "{\n}", "Gwen Stiver Memorial Park", "Block Park", "46601", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, [ "{\"address\":\"230 Michigan Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}", "41.67402073700049", "-86.25030000399966", null, false ] ]
+, [ 18, "A76467FA-F0F0-4444-B667-8A0240D6A307", 18, 1376672114, "713197", 1426708123, "713197", null, "Helman Mini Park", "Block Park", "46615", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1118 Helmen\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}", "41.689879903000076", "-86.20093430999998", null, false ] ]
+, [ 19, "D1242749-0516-4603-8DCF-FA9B365662A2", 19, 1376672114, "713197", 1426778439, "713197", null, "Howard Park", "Neighborhood Park", "46617", null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, "1", "1", null, null, null, null, null, "1", "1", null, null, "4", "1", "1", null, "1", null, null, null, null, null, null, null, null, "1", null, null, [ "{\"address\":\"219 S. St. Louis Blvd\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}", "41.67855932200007", "-86.24143682299996", null, false ] ]
+, [ 20, "51E05BA8-C7ED-454A-8C0C-3246D6299F6F", 20, 1376672114, "713197", 1376672148, "713197", "{\n}", "Jon Hunt Memorial Plaza", "Memorial", "46601", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, "1", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, "1", [ "{\"address\":\"214 Michigan Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}", "41.67831068400045", "-86.25045095399969", null, false ] ]
+, [ 21, "E9022C9A-FC18-4438-A99E-A82D17FD5609", 21, 1376672114, "713197", 1426708182, "713197", null, "Keller Park", "Neighborhood Park", "46616", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, "1", null, null, "1", null, null, null, "4", null, null, null, "1", null, [ "{\"address\":\"1935 Riverside Drive\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}", "41.70278013500007", "-86.26042586099999", null, false ] ]
+, [ 22, "05282B08-BDB6-43D6-8FE3-4A474767C226", 22, 1376672114, "713197", 1426708221, "713197", null, "Kelly Park", "Block Park", "46617", null, null, null, null, "0.5", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, "1", null, null, "1", null, null, null, null, null, null, null, null, null, [ "{\"address\":\"718 Howard Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}", "41.68843302800008", "-86.24057544099998", null, false ] ]
+, [ 23, "407A8881-27FB-486E-A6AB-4134335EA9B8", 23, 1376672114, "713197", 1376672148, "713197", "{\n}", "Kennedy Park", "Community Park", "46628", "1", null, null, "1", "0.5", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"2700 Westmoor Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.68467464800045", "-86.28838583299967", null, false ] ]
+, [ 24, "C035E8BE-A8BA-4EDC-8B33-5BBE8D1B8B53", 24, 1376672114, "713197", 1426708309, "713197", null, "LaSalle Landing Park", "Block Park", "46619", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, [ "{\"address\":\"2800 Portage\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46619\"}", "41.66817885200004", "-86.32130867999996", null, false ] ]
+, [ 25, "DD763412-D24F-479F-A267-DE20D7C95961", 25, 1376672114, "713197", 1426708335, "713197", null, "LaSalle Park", "Community Park", "46619", null, "1", "1", null, "2", null, null, null, null, null, null, null, null, null, null, null, null, null, "1", "1", null, null, null, null, "1", "1", null, null, null, null, "1", "2", null, null, "2", null, null, "1", "2", null, null, null, null, null, [ "{\"address\":\"3419 W. Washington\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46619\"}", "41.675609146000056", "-86.29558580599996", null, false ] ]
+, [ 26, "8B9D589A-F1CD-438A-BE49-44F3029092FF", 26, 1376672114, "713197", 1426708370, "713197", null, "Leeper Park", "Community Park", "46616", null, null, null, null, null, null, null, "1", null, null, null, "1", "1", null, null, "2", null, null, null, "1", null, null, null, null, "1", "2", null, null, "1", null, null, "2", null, "1", null, null, null, null, "15", null, null, null, "1", null, [ "{\"address\":\"820 N. Michigan St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}", "41.68530211500007", "-86.25049424399998", null, false ] ]
+, [ 60, "77F4A494-EA44-4626-845D-E4949C56133E", 60, 1376672114, "713197", 1426780455, "713197", null, "Lincoln Plaza Mini Park", "Block Park", "46628", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1601 Ryer St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.69606624900007", "-86.29728166299998", null, false ] ]
+, [ 27, "7B4D4320-B92B-483B-AB9A-E2BF08189A15", 27, 1376672114, "713197", 1426708413, "713197", null, "Marshall Park", "Neighborhood Park", "46614", null, null, null, "2", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "2", null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, "4", null, null, null, null, null, [ "{\"address\":\"3725 Springbrook\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46614\"}", "41.63666075300006", "-86.22310960499999", null, false ] ]
+, [ 28, "67EAAE6E-1228-4E76-83E5-E6B542DEDFBD", 28, 1376672114, "713197", 1426708436, "713197", null, "Martin Luther King Jr.", "Neighborhood Park", "46628", null, "1", null, "1", "4", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1522 W. Linden Avenue\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.67938320400003", "-86.27417084499996", null, false ] ]
+, [ 29, "8CCE3C1F-E98F-40EC-A933-C91760DFE6F7", 29, 1376672114, "713197", 1426708460, "713197", null, "Muessel Grove Park", "Neighborhood Park", "46628", null, null, null, "2", "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, "1", null, "1", null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1200 Wilbur Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.69094202300005", "-86.27398315899995", null, false ] ]
+, [ 63, "3EB73B92-4B9F-4FEA-970B-EB25BCEB2B27", 63, 1426779105, "713197", 1426780618, "713197", null, "Newman Recreation Center", "Neighborhood Park", "46615", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"727 S. Eddy St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}", "41.68508008500004", "-86.23537697299997", null, false ] ]
+, [ 30, "374B1CD0-8322-47F4-94CE-093A8E382D3C", 30, 1376672114, "713197", 1426708519, "713197", null, "Nokomis Park", "Block Park", "46617", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"310 Wakewa\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}", "41.69005327200006", "-86.25416943199997", null, false ] ]
+, [ 31, "852C0665-E1BB-402B-9375-307738B150F5", 31, 1376672114, "713197", 1376672148, "713197", "{\n}", "Northside Blvd. Riverwalk", "Community Park", "46617", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, [ "{\"address\":\"1350 Northside Blvd\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}", "41.66133958500046", "-86.22912509399964", null, false ] ]
+, [ 32, "5AA33799-6D43-4173-BB47-C116207FC979", 32, 1376672114, "713197", 1376672148, "713197", "{\n}", "O'Brien Park", "Neighborhood Park", "46614", null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "2", null, null, null, "1", "1", "1", null, null, null, null, null, "1", null, "2", null, "1", null, null, null, null, null, null, null, null, [ "{\"address\":\"321 Walter Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46614\"}", "41.63101198200047", "-86.24687887099964", null, false ] ]
+, [ 33, "44FA9AF8-CAC9-4EAD-86CA-5DD500130F7F", 33, 1376672114, "713197", 1426708548, "713197", null, "Parkovash Park", "Block Park", "46617", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"215 Parkovash Avenue\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}", "41.69207437700004", "-86.25274700299997", null, false ] ]
+, [ 34, "F213EE43-CB60-4A2F-A1EF-50FB768BD695", 34, 1376672114, "713197", 1426708566, "713197", null, "Pier Park", "Block Park", "46601", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, "2", null, null, [ "{\"address\":\"124 N. St. Joseph Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}", "41.67679989700008", "-86.24872927799998", null, false ] ]
+, [ 35, "A0E0DC46-BD45-4913-B0AB-D2D9E41C717B", 35, 1376672114, "713197", 1426778484, "713197", null, "Pinhook Park", "Community Park", "46616", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, "1", "1", null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, "1", null, [ "{\"address\":\"2801 Riverside Drive\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}", "41.713873929000044", "-86.27120318999994", null, false ] ]
+, [ 36, "748D3626-A242-4C02-8ACE-53BA063DD6B6", 36, 1376672114, "713197", 1426778499, "713197", null, "Plaza Park", "Neighborhood Park", "46601", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, [ "{\"address\":\"400 Columbia Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}", "41.67197971100006", "-86.24572568399998", null, false ] ]
+, [ 37, "6891FE7F-88DB-4E33-9353-FDFB77D7A894", 37, 1376672114, "713197", 1426708643, "713197", null, "Ponader Park", "Neighborhood Park", "46635", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"54054 Maple Lane Avenue\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46635\"}", "41.70867075100006", "-86.21386387099994", null, false ] ]
+, [ 38, "5698C64D-25A2-4783-862B-4E2EE9F98812", 38, 1376672114, "713197", 1376672148, "713197", "{\n}", "Potawatomi Park", "Community Park", "46615", "1", null, null, "1", null, null, null, null, null, null, null, "1", "1", null, "1", "2", null, null, "3", "1", null, null, null, null, "1", null, null, null, null, "12", "2", null, null, null, "3", null, null, "2", null, null, null, null, null, null, [ "{\"address\":\"2000 Wall Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}", "41.667536510000446", "-86.21790959499964", null, false ] ]
+, [ 39, "23C99B4D-40A0-4604-A022-5B6DCB157986", 39, 1376672114, "713197", 1376672148, "713197", "{\n}", "Potawatomi Zoo", "Zoo", "46615", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"500 South Greenlawn Avenue\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}", "41.67127160700045", "-86.22077120099965", null, false ] ]
+, [ 40, "A1F24C09-A988-42AC-B90D-88ED78406A5F", 40, 1376672114, "713197", 1426778521, "713197", null, "Pulaski Park", "Neighborhood Park", "46619", null, null, null, null, "2", null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1308 Huron\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46619\"}", "41.670183515000076", "-86.27011868599999", null, false ] ]
+, [ 41, "9610F470-501A-4C16-9418-309AD7520274", 41, 1376672114, "713197", 1426778534, "713197", null, "Randolph Mini Park", "Neighborhood Park", "46613", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1809 Randolph Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46613\"}", "41.65585821800005", "-86.22014034999995", null, false ] ]
+, [ 42, "E1369C83-175F-4444-AA3C-6EAB640D8C31", 42, 1376672114, "713197", 1426778543, "713197", null, "Ravina Park", "Block Park", "46613", null, null, null, null, "0.5", null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, "1", null, null, null, null, null, "1", null, "1", null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1522 Lebanon St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46613\"}", "41.65941212900003", "-86.23819020199994", null, false ] ]
+, [ 43, "E6317AD8-C76E-48FA-96C0-000B4CD225CB", 43, 1376672114, "713197", 1426778573, "713197", null, "River Manor Park", "Neighborhood Park", "46628", null, null, null, null, "0.5", null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, "1", null, null, null, null, "1", null, "2", null, null, null, null, null, [ "{\"address\":\"3811 Glenview Dr.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.72756648700005", "-86.27364228199997", null, false ] ]
+, [ 44, "51AD7257-5F8D-4BD7-8D01-6021B7E4862C", 44, 1376672114, "713197", 1426708790, "713197", null, "Riverside Park", "Neighborhood Park", "46628", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, "1", null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, "1", null, null, [ "{\"address\":\"3840 Riverside Drive\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.72734727200003", "-86.26930036299996", null, false ] ]
+, [ 45, "6F7353CC-A753-4FEB-B6C9-3D4D091DD6AA", 45, 1376672114, "713197", 1426708813, "713197", null, "Rum Village Annex", "Community Park", "46614", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, [ "{\"address\":\"2700 Gertrude St\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46614\"}", "41.64682858700007", "-86.27311700399997", null, false ] ]
+, [ 46, "96C7A222-5961-4E98-AFE0-E3266ADFBB78", 46, 1376672114, "713197", 1426708823, "713197", null, "Rum Village Park", "Community Park", "46614", null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, "1", null, null, "1", null, null, null, "4", null, null, "1", null, null, null, null, null, null, [ "{\"address\":\"2700 Gertrude St\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46614\"}", "41.64682858700007", "-86.27311700399997", null, false ] ]
+, [ 47, "E175CC2F-C5B6-4CD5-8E52-FA66D684FC07", 47, 1376672114, "713197", 1376672148, "713197", "{\n}", "Ryer Mini Park", "Block Park", "46628", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1565 Ryer St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.70801127800047", "-86.30769577799964", null, false ] ]
+, [ 48, "EE7A9EAF-FD18-461B-B89A-65D4AD208A22", 48, 1376672114, "713197", 1426708893, "713197", null, "Seitz Park", "Block Park", "46601", null, null, null, null, null, null, null, null, null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, "1", null, null, null, "1", null, null, null, null, null, null, null, "1", null, null, [ "{\"address\":\"340 E. Colfax\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}", "41.677774234000026", "-86.24976801199995", null, false ] ]
+, [ 49, "123ACFF6-EC6F-46F3-9285-9DBDA3A90828", 49, 1376672114, "713197", 1379866942, "710597", "{}", "Shetterley Park", "Block Park", "46616", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, [ "{\"address\":\"1044 Riverside Drive\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}", "41.68909715900048", "-86.25964790099965", null, false ] ]
+, [ 50, "EDB4007C-AC00-43AE-BBD3-E7410BE92D89", 50, 1376672114, "713197", 1426778598, "713197", null, "Sorin Mini Park", "Block Park", "46615", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"3366 Sorin Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}", "41.68463344500003", "-86.20077129399994", null, false ] ]
+, [ 51, "7A3B4941-2461-471B-AC10-54F1406E40F8", 51, 1376672114, "713197", 1426778609, "713197", null, "Southeast Neighborhood Park", "Neighborhood Park", "46601", null, "1", "1", null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, "1", "1", null, null, "1", null, "1", null, null, null, null, null, null, "1", null, null, "2", null, null, null, null, null, null, null, null, null, [ "{\"address\":\"503 Wenger Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46601\"}", "41.662587544000075", "-86.24358121899996", null, false ] ]
+, [ 53, "B0850A73-0803-4B06-9D87-2E2796AFD9AA", 53, 1376672114, "713197", 1376672148, "713197", "{\n}", "Studebaker Golf Course", "Golf Course", "46613", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.5", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"718 Calvert Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46613\"}", "41.65411663000049", "-86.25964338499966", null, false ] ]
+, [ 54, "2C61A824-63C0-47D7-944D-4DD224FEF684", 54, 1376672114, "713197", 1376672148, "713197", "{\n}", "Vassar Park", "Neighborhood Park", "46616", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1100 Sherman Avenue\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}", "41.6894837530005", "-86.26493242799967", null, false ] ]
+, [ 55, "499B56C0-ADC3-4657-9F6F-94FD895B7068", 55, 1376672114, "713197", 1426708981, "713197", null, "Veteran's Memorial Park", "Neighborhood Park", "46615", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, "1", null, null, null, null, null, null, null, null, null, [ "{\"address\":\"1501 Northside Blvd\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46615\"}", "41.66026248600008", "-86.22534233699997", null, false ] ]
+, [ 56, "0D0C2DB6-5189-460C-9E3F-3989602B0B59", 56, 1376672114, "713197", 1376672148, "713197", "{\n}", "Viewing Park", "Neighborhood Park", "46617", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, "1", null, null, null, null, null, null, null, null, null, "2", null, null, [ "{\"address\":\"900 Northside Blvd\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46617\"}", "41.66749187200048", "-86.23634464699967", null, false ] ]
+, [ 57, "86BE624E-52A2-488C-A585-B1CC2AD7B8A0", 57, 1376672114, "713197", 1426778706, "713197", null, "Voorde Park", "Neighborhood Park", "46628", null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, "2", null, null, null, null, null, [ "{\"address\":\"3433 Keller St.\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.69730839600004", "-86.29765393399998", null, false ] ]
+, [ 58, "5848F6B0-DBDA-4AC8-BA7F-89316B128C31", 58, 1376672114, "713197", 1426778718, "713197", null, "Walker Field Park", "Neighborhood Park", "46613", null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, "1", null, null, null, null, null, null, "1", null, null, "1", null, null, null, "4", null, null, null, null, null, [ "{\"address\":\"2212 S. Walnut Street\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46613\"}", "41.65108868200008", "-86.27071853799998", null, false ] ]
+, [ 59, "92DB9291-BABE-457E-B9DD-E374414E2F50", 59, 1376672114, "713197", 1376672148, "713197", "{\n}", "Westhaven Park", "Block Park", "46628", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, "2", null, null, null, null, null, [ "{\"address\":\"1220 Sussex Drive\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46628\"}", "41.6904709370005", "-86.30599056399967", null, false ] ]
+, [ 61, "52643D2B-A6D5-4703-BF32-22444247F753", 61, 1376672114, "713197", 1426778809, "713197", null, "Woodlawn Park", "Neighborhood Park", "46616", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, "1", null, null, "2", null, null, null, null, null, null, null, null, null, null, null, null, null, "1", null, [ "{\"address\":\"2166 Riverside Drive\",\"city\":\"South Bend\",\"state\":\"Indiana\",\"zip\":\"46616\"}", "41.70574295900008", "-86.26795445899995", null, false ] ]
+ ]
+}
