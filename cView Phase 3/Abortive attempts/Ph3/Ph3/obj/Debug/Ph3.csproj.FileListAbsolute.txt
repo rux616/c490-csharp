@@ -1,0 +1,15 @@
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\bin\Debug\Ph3.exe.config
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\bin\Debug\Ph3.exe
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\bin\Debug\Ph3.pdb
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\obj\Debug\Ph3.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\obj\Debug\MainWindow.baml
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\obj\Debug\MainWindow.g.cs
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\obj\Debug\App.g.cs
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\obj\Debug\Ph3_MarkupCompile.cache
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\obj\Debug\Ph3.g.resources
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\obj\Debug\Ph3.Properties.Resources.resources
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\obj\Debug\Ph3.csproj.GenerateResource.Cache
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\obj\Debug\Ph3.exe
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\obj\Debug\Ph3.pdb
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\Ph3\Ph3\obj\Debug\Ph3_MarkupCompile.lref

@@ -1,0 +1,14 @@
+USE [djcassid]
+GO
+
+TRUNCATE TABLE [Park]
+TRUNCATE TABLE [ParkReset]
+GO
+
+INSERT INTO [ParkReset]
+SELECT TOP 50 * FROM [ParkBase] ORDER BY NEWID()
+GO
+
+INSERT INTO [Park]
+SELECT * FROM [ParkReset]
+GO

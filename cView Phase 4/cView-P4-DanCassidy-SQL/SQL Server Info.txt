@@ -1,0 +1,3 @@
+Server:     IU-UITS-EDIDP1.ADS.IU.EDU
+Login:      djcassid_sqluser
+Password:   F7fKtkK9

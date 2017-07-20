@@ -1,0 +1,9 @@
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Dan\Box Sync\2014-2015 Summer\CSCI-C 490 (C# Programming)\Project\Phase 3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

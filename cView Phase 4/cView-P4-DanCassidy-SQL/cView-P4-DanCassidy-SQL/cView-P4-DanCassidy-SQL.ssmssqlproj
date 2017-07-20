@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="cView-P4-DanCassidy-SQL">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="IU-UITS-EDIDP1.ADS.IU.EDU:djcassid_sqluser">
+          <Created>2015-06-19T12:12:36.1445166-04:00</Created>
+          <Type>SQL</Type>
+          <Server>IU-UITS-EDIDP1.ADS.IU.EDU</Server>
+          <UserName>djcassid_sqluser</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Create Business.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Create Business.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create BusinessBase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Create BusinessBase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create BusinessReset.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Create BusinessReset.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Park.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Create Park.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create ParkBase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Create ParkBase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create ParkReset.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Create ParkReset.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create PublicFacility.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Create PublicFacility.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create PublicFacilityBase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Create PublicFacilityBase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create PublicFacilityReset.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Create PublicFacilityReset.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Load 50 Random Businesses.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Load 50 Random Businesses.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Load 50 Random Parks.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Load 50 Random Parks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Load 50 Random Public Facilities.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Load 50 Random Public Facilities.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Reset Business.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Reset Business.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Reset Park.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Reset Park.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Reset PublicFacility.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IU-UITS-EDIDP1.ADS.IU.EDU:False:djcassid_sqluser</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IU-UITS-EDIDP1.ADS.IU.EDU</AssociatedConnSrvName>
+          <AssociatedConnUserName>djcassid_sqluser</AssociatedConnUserName>
+          <FullPath>Reset PublicFacility.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
